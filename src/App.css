@@ -1,11 +1,13 @@
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
-  height: 40vmin;
+  max-height: 25vmin; /* Adjust as needed for desired size */
+  width: auto; /* Ensures proportional scaling */
   pointer-events: none;
 }
+
 
 
 .App-header {
